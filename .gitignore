@@ -1,0 +1,27 @@
+# Python / local build files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Local and sensitive research material
+*.pdf
+*.xlsx
+*.xls
+*.csv
+*.rds
+*.h5ad
+*.fastq
+*.fq
+*.bam
+*.bai
+*.vcf
+.env
+.env.*
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
