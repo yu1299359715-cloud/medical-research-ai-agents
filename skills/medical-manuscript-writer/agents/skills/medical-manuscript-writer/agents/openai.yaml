@@ -1,0 +1,4 @@
+interface:
+  display_name: "医学论文写作 Agent"
+  short_description: "把医学研究问题、真实数据和证据组织成可审查的论文草稿"
+  default_prompt: "请根据我的研究问题和结果，建立论文提纲、主张证据矩阵，并撰写对应的医学论文段落。"
