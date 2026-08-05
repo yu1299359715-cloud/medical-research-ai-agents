@@ -1,0 +1,4 @@
+interface:
+  display_name: "医学论文阅读 Agent"
+  short_description: "把医学论文拆解成医学生可理解、可核查、可收藏的证据卡片"
+  default_prompt: "请阅读这篇医学论文，输出研究问题、研究设计、核心结果、Figure逐图解读、局限性和小红书科普稿。"
