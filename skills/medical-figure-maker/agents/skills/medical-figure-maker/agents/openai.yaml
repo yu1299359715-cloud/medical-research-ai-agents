@@ -1,0 +1,4 @@
+interface:
+  display_name: "医学论文绘图 Agent"
+  short_description: "按论文主张设计并生成清晰规范、可复用的医学科研图表"
+  default_prompt: "请根据研究问题和数据，规划Figure及Panel，给出R或Python绘图方案、图例和发表级导出检查。"
